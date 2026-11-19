@@ -1,1 +1,5 @@
-<img src="https://raw.githubusercontent.com/OmarLara25/Omar-Full-Stack/main/assets/images/banner.png" width="100%" alt="Banner profesional de Omar Lara">
+![Banner profesional de Omar Lara](assets/images/banner.png)
+
+# Omar Lara | Desarrollador Java Backend / Full Stack
+
+Desarrollador de software enfocado en soluciones empresariales con Java, Spring Boot, APIs REST y bases de datos SQL.
