@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./assets/images/banner.png" alt="Banner profesional de Omar Lara" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/OmarLara25/Omar-Full-Stack/main/assets/images/banner.png" width="100%" alt="Banner profesional de Omar Lara">
